@@ -1,0 +1,32 @@
+.header {
+	background-color: #EF9978;
+	font-weight: bold;
+	padding-top:15px;
+	padding-bottom:15px;
+	margin-bottom: 15px;
+}
+.tareas_agregadas{
+	background-color: #E9DA59;
+	margin-top: 15px;
+}
+.nuevaTarea{
+	width: 100
+}
+.martop-15{
+	margin-top: 15px;
+}
+ul>li{
+	list-style: none;
+	padding:10px;
+	text-align: center;
+	width: auto;
+}
+.tachado {
+	text-decoration: line-through;
+}
+.aspa{
+	float: left;
+}
+.borrar{
+	float: right;
+}
